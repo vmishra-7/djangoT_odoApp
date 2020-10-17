@@ -1,0 +1,1 @@
+# djangoT_odoApp
